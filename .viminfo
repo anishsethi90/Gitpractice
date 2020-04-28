@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1588106074,,"wq!"
+|2,0,1588106312,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,40 @@
 # Registers:
 
 # File marks:
-'0  1  16  ~/style.css
-|4,48,1,16,1588106074,"~/style.css"
-'1  1  11  ~/conf
-|4,49,1,11,1588089716,"~/conf"
-'2  1  15  ~/conf
-|4,50,1,15,1588089582,"~/conf"
-'3  1  33  ~/Conflict
-|4,51,1,33,1588089442,"~/Conflict"
-'4  1  19  ~/conflict
-|4,52,1,19,1588088734,"~/conflict"
-'5  1  19  ~/git-practice/example.txt
-|4,53,1,19,1588045134,"~/git-practice/example.txt"
+'0  1  45  ~/wordfile
+|4,48,1,45,1588106312,"~/wordfile"
+'1  1  16  ~/style.css
+|4,49,1,16,1588106074,"~/style.css"
+'2  1  11  ~/conf
+|4,50,1,11,1588089716,"~/conf"
+'3  1  15  ~/conf
+|4,51,1,15,1588089582,"~/conf"
+'4  1  33  ~/Conflict
+|4,52,1,33,1588089442,"~/Conflict"
+'5  1  19  ~/conflict
+|4,53,1,19,1588088734,"~/conflict"
+'6  1  19  ~/git-practice/example.txt
+|4,54,1,19,1588045134,"~/git-practice/example.txt"
 
 # Jumplist (newest first):
+-'  1  45  ~/wordfile
+|4,39,1,45,1588106312,"~/wordfile"
+-'  1  16  ~/style.css
+|4,39,1,16,1588106074,"~/style.css"
 -'  1  16  ~/style.css
 |4,39,1,16,1588106074,"~/style.css"
 -'  1  11  ~/conf
 |4,39,1,11,1588089716,"~/conf"
 -'  1  11  ~/conf
 |4,39,1,11,1588089716,"~/conf"
+-'  1  11  ~/conf
+|4,39,1,11,1588089716,"~/conf"
+-'  1  11  ~/conf
+|4,39,1,11,1588089716,"~/conf"
+-'  1  15  ~/conf
+|4,39,1,15,1588089582,"~/conf"
+-'  1  15  ~/conf
+|4,39,1,15,1588089582,"~/conf"
 -'  1  15  ~/conf
 |4,39,1,15,1588089582,"~/conf"
 -'  1  15  ~/conf
@@ -65,6 +79,22 @@
 |4,39,1,33,1588089442,"~/Conflict"
 -'  1  33  ~/Conflict
 |4,39,1,33,1588089442,"~/Conflict"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
 -'  1  19  ~/conflict
 |4,39,1,19,1588088734,"~/conflict"
 -'  1  19  ~/conflict
@@ -97,6 +127,56 @@
 |4,39,1,19,1588088734,"~/conflict"
 -'  1  19  ~/conflict
 |4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
 -'  1  19  ~/git-practice/example.txt
 |4,39,1,19,1588045134,"~/git-practice/example.txt"
 -'  1  19  ~/git-practice/example.txt
@@ -163,6 +243,13 @@
 |4,39,1,19,1588045134,"~/git-practice/example.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/wordfile
+	*	1588106310	0
+	"	1	45
+	^	1	46
+	.	1	45
+	+	1	45
 
 > ~/style.css
 	*	1588106072	0
