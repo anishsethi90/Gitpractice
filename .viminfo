@@ -12,7 +12,11 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
+<<<<<<< HEAD
 |2,0,1588106074,,"wq!"
+=======
+|2,0,1588106440,,"wq!"
+>>>>>>> beta
 
 # Search String History (newest to oldest):
 
@@ -25,8 +29,13 @@
 # Registers:
 
 # File marks:
+<<<<<<< HEAD
 '0  1  16  ~/style.css
 |4,48,1,16,1588106074,"~/style.css"
+=======
+'0  2  36  ~/wordfile
+|4,48,2,36,1588106440,"~/wordfile"
+>>>>>>> beta
 '1  1  11  ~/conf
 |4,49,1,11,1588089716,"~/conf"
 '2  1  15  ~/conf
@@ -39,8 +48,15 @@
 |4,53,1,19,1588045134,"~/git-practice/example.txt"
 
 # Jumplist (newest first):
+<<<<<<< HEAD
 -'  1  16  ~/style.css
 |4,39,1,16,1588106074,"~/style.css"
+=======
+-'  2  36  ~/wordfile
+|4,39,2,36,1588106440,"~/wordfile"
+-'  1  0  ~/wordfile
+|4,39,1,0,1588106417,"~/wordfile"
+>>>>>>> beta
 -'  1  11  ~/conf
 |4,39,1,11,1588089716,"~/conf"
 -'  1  11  ~/conf
@@ -164,12 +180,21 @@
 
 # History of marks within files (newest to oldest):
 
+<<<<<<< HEAD
 > ~/style.css
 	*	1588106072	0
 	"	1	16
 	^	1	17
 	.	1	16
 	+	1	16
+=======
+> ~/wordfile
+	*	1588106438	0
+	"	2	36
+	^	2	37
+	.	2	37
+	+	2	37
+>>>>>>> beta
 
 > ~/conf
 	*	1588089714	0
