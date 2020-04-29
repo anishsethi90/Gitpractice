@@ -13,9 +13,13 @@
 # Command Line History (newest to oldest):
 :wq!
 <<<<<<< HEAD
+<<<<<<< HEAD
 |2,0,1588106074,,"wq!"
 =======
 |2,0,1588106440,,"wq!"
+>>>>>>> beta
+=======
+|2,0,1588129122,,"wq!"
 >>>>>>> beta
 
 # Search String History (newest to oldest):
@@ -29,6 +33,7 @@
 # Registers:
 
 # File marks:
+<<<<<<< HEAD
 <<<<<<< HEAD
 '0  1  16  ~/style.css
 |4,48,1,16,1588106074,"~/style.css"
@@ -52,10 +57,41 @@
 -'  1  16  ~/style.css
 |4,39,1,16,1588106074,"~/style.css"
 =======
+=======
+'0  1  5  ~/imp.txt
+|4,48,1,5,1588129122,"~/imp.txt"
+'1  2  36  ~/wordfile
+|4,49,2,36,1588106440,"~/wordfile"
+'2  1  11  ~/conf
+|4,50,1,11,1588089716,"~/conf"
+'3  1  15  ~/conf
+|4,51,1,15,1588089582,"~/conf"
+'4  1  33  ~/Conflict
+|4,52,1,33,1588089442,"~/Conflict"
+'5  1  19  ~/conflict
+|4,53,1,19,1588088734,"~/conflict"
+'6  1  19  ~/git-practice/example.txt
+|4,54,1,19,1588045134,"~/git-practice/example.txt"
+
+# Jumplist (newest first):
+-'  1  5  ~/imp.txt
+|4,39,1,5,1588129122,"~/imp.txt"
+-'  2  36  ~/wordfile
+|4,39,2,36,1588106440,"~/wordfile"
+>>>>>>> beta
 -'  2  36  ~/wordfile
 |4,39,2,36,1588106440,"~/wordfile"
 -'  1  0  ~/wordfile
 |4,39,1,0,1588106417,"~/wordfile"
+<<<<<<< HEAD
+>>>>>>> beta
+=======
+-'  1  0  ~/wordfile
+|4,39,1,0,1588106417,"~/wordfile"
+-'  1  11  ~/conf
+|4,39,1,11,1588089716,"~/conf"
+-'  1  11  ~/conf
+|4,39,1,11,1588089716,"~/conf"
 >>>>>>> beta
 -'  1  11  ~/conf
 |4,39,1,11,1588089716,"~/conf"
@@ -65,6 +101,26 @@
 |4,39,1,15,1588089582,"~/conf"
 -'  1  15  ~/conf
 |4,39,1,15,1588089582,"~/conf"
+-'  1  15  ~/conf
+|4,39,1,15,1588089582,"~/conf"
+-'  1  15  ~/conf
+|4,39,1,15,1588089582,"~/conf"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
+-'  1  33  ~/Conflict
+|4,39,1,33,1588089442,"~/Conflict"
 -'  1  33  ~/Conflict
 |4,39,1,33,1588089442,"~/Conflict"
 -'  1  33  ~/Conflict
@@ -113,6 +169,52 @@
 |4,39,1,19,1588088734,"~/conflict"
 -'  1  19  ~/conflict
 |4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/conflict
+|4,39,1,19,1588088734,"~/conflict"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
+-'  1  19  ~/git-practice/example.txt
+|4,39,1,19,1588045134,"~/git-practice/example.txt"
 -'  1  19  ~/git-practice/example.txt
 |4,39,1,19,1588045134,"~/git-practice/example.txt"
 -'  1  19  ~/git-practice/example.txt
@@ -181,6 +283,7 @@
 # History of marks within files (newest to oldest):
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 > ~/style.css
 	*	1588106072	0
 	"	1	16
@@ -188,6 +291,12 @@
 	.	1	16
 	+	1	16
 =======
+=======
+> ~/imp.txt
+	*	1588129121	0
+	"	1	5
+
+>>>>>>> beta
 > ~/wordfile
 	*	1588106438	0
 	"	2	36
